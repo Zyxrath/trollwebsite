@@ -1,12 +1,10 @@
 ## Welcome to PangitSiAte!
 
-You can use the [editor on GitHub](https://github.com/Zyxrath/trollwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pangit si ate hahahahahaha
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Free $500 Below!
 
-### Markiplier
-
-Markiplier is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"</a>
 
 ```markdown
 Syntax highlighted code block
